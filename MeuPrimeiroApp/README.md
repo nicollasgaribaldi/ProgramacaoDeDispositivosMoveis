@@ -5,4 +5,4 @@ Exercícios
 
 Resultado
 
-<img width="828" height="1792" alt="IMG_6276" src="https://github.com/user-attachments/assets/f3091d99-6dc8-4aef-86bb-7891d212e573" />
+<img width="414" height="896" alt="IMG_6277" src="https://github.com/user-attachments/assets/6bc67f96-a85f-4e0c-80b2-73fdd429d601" />
